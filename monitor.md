@@ -1,13 +1,10 @@
 ---
-linkTitle: "Sysdig Monitor"
-title: "Sysdig Monitor"
-weight: "2"
-no_list: true
-aliases:
-  - /en/sysdig-monitor.html
-Description: "Sysdig Monitor is part of Sysdig's cloud-native intelligence platform providing
-security, monitoring, cost-optimization, and forensics in a cloud and container-friendly architecture. Sysdig Monitor offers Kubernetes and cloud monitoring with a managed Prometheus service."
+title: Sysdig Monitor
+excerpt: Sysdig Monitor is part of Sysdig's cloud-native intelligence platform
+categorySlug: monitor
 ---
+
+Sysdig Monitor is part of Sysdig's cloud-native intelligence platform providing security, monitoring, cost-optimization, and forensics in a cloud and container-friendly architecture. Sysdig Monitor offers Kubernetes and cloud monitoring with a managed Prometheus service.
 
 Sysdig Monitor is a monitoring, troubleshooting, cost-optimization, and alerting suite offering deep, process-level visibility into dynamic, distributed production environments. Sysdig Monitor captures, correlates, and visualizes full-stack data, and provides dashboards for monitoring your cloud-native environment.
 

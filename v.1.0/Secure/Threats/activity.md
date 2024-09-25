@@ -4,6 +4,7 @@ excerpt: Activity is a powerful visualization tool for threat detection, investi
 categorySlug: secure
 parentDocSlug: threats
 ---
+
 ## Choose your Scope
 
 Activity offers five different **Activity Views**. Use one of the following options to select an activity view:

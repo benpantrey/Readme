@@ -20,4 +20,4 @@ jobs:
       - name: Run `docs` command 🚀
         uses: readmeio/rdme@v8
         with:
-          rdme: docs monitor.md --key=${{ secrets.README_API_KEY }} --version=1.0
+          rdme: docs monitor.md v1.0 --key=${{ secrets.README_API_KEY }} --version=1.0

@@ -1,10 +1,8 @@
 ---
 title: Threats
-excerpt: Threats are bad
+excerpt: The **Threats** page provide event trend analysis and at-a-glance summaries of top policies, rules, namespaces, accounts, or users with event activity over the past 31 days. From the Overviews, you can drill down into specific event feeds and details to take action.
 categorySlug: secure
 ---
-
-The **Threats** page provide event trend analysis and at-a-glance summaries of top policies, rules, namespaces, accounts, or users with event activity over the past 31 days. From the Overviews, you can drill down into specific event feeds and details to take action."
 
 ## Prerequisites
 
@@ -14,10 +12,10 @@ Sysdig Secure (SaaS) with data sources connected:
 * **Cloud Accounts:** Integrated Cloud accounts
 * **Hosts and Containers:** Containers deployed on hosts without Kubernetes orchestration
 
-{{% infobox type="note" %}}
-* If a particular type of data source is not connected, the corresponding overview will show no data.
+> 📘 Note
+>
+> * If a particular type of data source is not connected, the corresponding overview will show no data.
 * Only teams scoped to **Entire Infrastructure** will see the Dashboards.
-{{% /infobox %}}
 
 ## Access Threats
 

@@ -12,10 +12,10 @@ Sysdig Secure (SaaS) with data sources connected:
 * **Cloud Accounts:** Integrated Cloud accounts
 * **Hosts and Containers:** Containers deployed on hosts without Kubernetes orchestration
 
-{{% infobox type="note" %}}
-* If a particular type of data source is not connected, the corresponding overview will show no data.
+> 📘 Note
+>
+> * If a particular type of data source is not connected, the corresponding overview will show no data.
 * Only teams scoped to **Entire Infrastructure** will see the Dashboards.
-{{% /infobox %}}
 
 ## Access Threats
 

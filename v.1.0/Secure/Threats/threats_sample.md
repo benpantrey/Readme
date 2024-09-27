@@ -1,5 +1,5 @@
 ---
-title: Threats
+title: Sample topic
 excerpt: The **Threats** page provide event trend analysis and at-a-glance summaries of top policies, rules, namespaces, accounts, or users with event activity over the past 31 days. From the Overviews, you can drill down into specific event feeds and details to take action.
 categorySlug: secure
 ---

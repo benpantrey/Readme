@@ -4,4 +4,4 @@ excerpt: bla bla
 categorySlug: release-notes
 ---
 
-dfosdiaf
+This release note is a test release note :D
